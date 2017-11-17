@@ -3,7 +3,7 @@
 
 card list:
 <ul>
-<li> <a href="https://github.com/MaltorMorph/Tarot/blob/master/Deck/00--OTolo.png?raw=true" target="blank">00</a></li>
+<li> <a href="https://github.com/MaltorMorph/Tarot/blob/master/Deck/00--OTolo.png?raw=true" target="new">00</a></li>
 <li> <a href="https://github.com/MaltorMorph/Tarot/blob/master/Deck/01__OMago.png?raw=true" target="blank">01</a></li>
 <li>02</li>
 <li>03</li>
@@ -11,8 +11,8 @@ card list:
 <li>05</li>
 <li>06</li>
 <li>07</li>
-<li <a href="https://github.com/MaltorMorph/Tarot/blob/master/Deck/08__Força.png?raw=true" target="blank">08</a></li>
-<li <a href="https://github.com/MaltorMorph/Tarot/blob/master/Deck/09__OHeremita.png?raw=true" target="blank">09</a></li>
+<li> <a href="https://github.com/MaltorMorph/Tarot/blob/master/Deck/08__Força.png?raw=true" target="blank">08</a></li>
+<li> <a href="https://github.com/MaltorMorph/Tarot/blob/master/Deck/09__OHeremita.png?raw=true" target="new">09</a></li>
 <li>10</li>
 <li>11</li>
 <li>12</li>
